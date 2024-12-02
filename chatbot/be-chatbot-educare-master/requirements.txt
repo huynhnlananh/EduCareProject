@@ -1,0 +1,9 @@
+django 
+djangorestframework 
+django-cors-headers 
+nltk 
+keras 
+deep-translator 
+langdetect 
+underthesea
+tensorflow

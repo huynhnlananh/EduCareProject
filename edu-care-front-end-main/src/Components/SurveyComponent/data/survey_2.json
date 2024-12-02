@@ -1,0 +1,67 @@
+[
+    {
+    "page": 1,
+    "type": "radio",
+    "name": "interest_loss",
+    "question": "1. Bạn có cảm thấy mất hứng thú hoặc vui vẻ trong các hoạt động mà bạn thường thích không?",
+    "options": [
+      { "label": "Hầu như không", "value": "1" },
+      { "label": "Một vài ngày", "value": "2" },
+      { "label": "Hơn một nửa số thời gian", "value": "3" },
+      { "label": "Gần như mỗi ngày", "value": "4" }
+    ],
+    "required": true
+  },
+  {
+    "page": 2,
+    "type": "radio",
+    "name": "feeling_down",
+    "question": "2. Bạn có cảm thấy chán nản, kiệt sức, chán nản, hay tuyệt vọng không?",
+    "options": [
+      { "label": "Hầu như không", "value": "1" },
+      { "label": "Một vài ngày", "value": "2" },
+      { "label": "Hơn một nửa số thời gian", "value": "3" },
+      { "label": "Gần như mỗi ngày", "value": "4" }
+    ],
+    "required": true
+  },
+  {
+    "page": 3,
+    "type": "radio",
+    "name": "sleep_issues",
+    "question": "3. Bạn có gặp khó khăn trong việc ngủ, ngủ không lâu hoặc ngủ quá nhiều không?",
+    "options": [
+      { "label": "Hầu như không", "value": "1" },
+      { "label": "Một vài ngày", "value": "2" },
+      { "label": "Hơn một nửa số thời gian", "value": "3" },
+      { "label": "Gần như mỗi ngày", "value": "4" }
+    ],
+    "required": true
+  },
+  {
+    "page": 4,
+    "type": "radio",
+    "name": "low_energy",
+    "question": "4. Bạn có cảm thấy mệt mỏi hoặc thiếu năng lượng không?",
+    "options": [
+      { "label": "Hầu như không", "value": "1" },
+      { "label": "Một vài ngày", "value": "2" },
+      { "label": "Hơn một nửa số thời gian", "value": "3" },
+      { "label": "Gần như mỗi ngày", "value": "4" }
+    ],
+    "required": true
+  },
+  {
+    "page": 5,
+    "type": "radio",
+    "name": "eating_problems",
+    "question": "5. Bạn có cảm thấy ăn uống không ngon miệng, chán hoặc ăn quá nhiều không?",
+    "options": [
+      { "label": "Hầu như không", "value": "1" },
+      { "label": "Một vài ngày", "value": "2" },
+      { "label": "Hơn một nửa số thời gian", "value": "3" },
+      { "label": "Gần như mỗi ngày", "value": "4" }
+    ],
+    "required": true
+  }
+]
